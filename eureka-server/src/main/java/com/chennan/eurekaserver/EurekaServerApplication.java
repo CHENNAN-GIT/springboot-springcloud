@@ -6,6 +6,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 /**
  * 注册中心
+ * git 测试
  * <p>
  *     1.配置eureka
  * </p>
